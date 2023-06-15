@@ -1,0 +1,222 @@
+{
+    "formatVersion": 1,
+    "game": "minecraft",
+    "versionId": "1.0.0",
+    "name": "Origineers Smp Mods",
+    "files": [
+        {
+            "path": "mods/Adorn-3.9.1+1.19.2-fabric.jar",
+            "hashes": {
+                "sha1": "cec969be7bcd93e26ed127e057b68da80c687407",
+                "sha512": "6939b7f132ad8d698e4c5774a5d523863b13cf0adf3077b7ab827cc19f3f3549698aff849fbb73052b31f3fca1ebf8419ca09bbadbb51b80bfecae0e8febb126"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/E6FUtRJh/versions/4Af8VkZs/Adorn-3.9.1%2B1.19.2-fabric.jar"
+            ],
+            "fileSize": 4068758
+        },
+        {
+            "path": "mods/charm-fabric-1.19.2-4.4.4.jar",
+            "hashes": {
+                "sha1": "b1118b1b30508dab9aa1625facc8ea6e4a4f6a49",
+                "sha512": "1bf9cda7433c7038dcdd2ccc6fc43b467c67cc98c99d0c2a24b08b4196340a95d50a96fdbf5aa5c069d1c154766ae621b5464522058620190211eb6251b47d43"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/pOQTcQmj/versions/nGnXDTky/charm-fabric-1.19.2-4.4.4.jar"
+            ],
+            "fileSize": 3968760
+        },
+        {
+            "path": "mods/create-fabric-0.5.0.i-1017+1.19.2.jar",
+            "hashes": {
+                "sha1": "2f0d7931c93e957eaf4302085dbc8d40ca3a381e",
+                "sha512": "1912185fbb3150ec7fcc860c64144656c92f5b52c706387a1f0e27e6074051ae316f4463e25a692ad591ea7a3c28fc4ce3bca5bfc34411ad6e19df927da033f4"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Xbc0uyRg/versions/EkeMb3jA/create-fabric-0.5.0.i-1017%2B1.19.2.jar"
+            ],
+            "fileSize": 18066675
+        },
+        {
+            "path": "mods/fabric-api-0.76.0+1.19.2.jar",
+            "hashes": {
+                "sha1": "f29a349b29324338ebe3acaa2914637008be15f4",
+                "sha512": "4524c26af66bf266eb076bfd1682fa06d36f0b8ee7af46fc070447e2fb31885aa3d212a5a7dbfaebf57ba69e939cbd2d6e500055c246640cd0d5845c7712d625"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/hfsU4hXq/fabric-api-0.76.0%2B1.19.2.jar"
+            ],
+            "fileSize": 1882121
+        },
+        {
+            "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
+            "hashes": {
+                "sha1": "6dab5c754ec04e671e505df685befcedef27f42e",
+                "sha512": "8fda82f8a1fdc104fc33b54e35413590541ade39091df8464d31387ef8b5bc7f7a55dabba32109b79c54d8fdf40b7cd60240da131be68f450887a3345823c16b"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/ADg3gvlr/fabric-language-kotlin-1.9.5%2Bkotlin.1.8.22.jar"
+            ],
+            "fileSize": 6631025
+        },
+        {
+            "path": "mods/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar",
+            "hashes": {
+                "sha1": "00d05a6d57ee557ab216de5527e1434e3cf50c24",
+                "sha512": "bc6c8c703c47972aa232616bb3cbcd2602a68c00be09bce55608904eedd7088b221516893c4a46fc5fd660bf1f08d46a011426a0a4ad6606a9eefbff2c674f7a"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ohNO6lps/versions/3VCgXZ79/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar"
+            ],
+            "fileSize": 439991
+        },
+        {
+            "path": "mods/immersive_paintings-0.6.0+1.19.2-fabric.jar",
+            "hashes": {
+                "sha1": "4883c124657d3b9eb05d4883ce48ec9caf47f63e",
+                "sha512": "f03a81527189161ef6e05cb5be76e1a4e5d14e6ebd7104df0265f5251bc28f6c4ab60702ddfe9df1e5d531b02be2c791f2a8d1a59fecc052a0d23e91345fd741"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/6txNkua3/versions/DhKAxX2r/immersive_paintings-0.6.0%2B1.19.2-fabric.jar"
+            ],
+            "fileSize": 4834285
+        },
+        {
+            "path": "mods/Jade-1.19.1-fabric-8.7.3.jar",
+            "hashes": {
+                "sha1": "1b3cdd8639ff6083bcf68a76f76a38d1a0afcab7",
+                "sha512": "78cfef5dfca89b2ffef1b2c98640425fdd97479d2d15020cd0b4992756a60351b65b32c877f310b11eb437233b233364c6fe4d995ca104c6487b04a395b77897"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/nvQzSEkH/versions/ZASePpsm/Jade-1.19.1-fabric-8.7.3.jar"
+            ],
+            "fileSize": 436662
+        },
+        {
+            "path": "mods/jei-1.19.2-fabric-11.5.2.1007.jar",
+            "hashes": {
+                "sha1": "0046df5c28a6b981e57f815a8684769b8efb7109",
+                "sha512": "98d38c66a7e0dde0ee927d69740a3830bd83e4357d51524c474057ab70580cd9707261d22978d2f59c2134bf7565ca56cee464a66aa621c301f31d2753ec0edf"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Fq2JkIID/jei-1.19.2-fabric-11.5.2.1007.jar"
+            ],
+            "fileSize": 1112355
+        },
+        {
+            "path": "mods/origins-plus-plus-2.0.1.jar",
+            "hashes": {
+                "sha1": "9eda10e3bf0ad9e4fc2ba3de78a41d2c6b4584c0",
+                "sha512": "25e384cbf206964fca5fbd451c7f480181ee9dcb08d5e339b70f19add5a2e27dc90d5c80aef59ee48a426ee194eb3606c71361cd02153fe35972eaadeefdf48c"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/npBe7UbS/versions/RoUbp8lu/origins-plus-plus-2.0.1.jar"
+            ],
+            "fileSize": 948609
+        },
+        {
+            "path": "mods/Origins-1.19.2-1.7.1.jar",
+            "hashes": {
+                "sha1": "b1410b30daeb585da247d0c48a3a9fe2f650fede",
+                "sha512": "06596867e425635a53a233423f1fbe4d9cb002b5019029e3f56ecc40ae205d7036c1c278dedfd794fecdae6304b716e46251dce548c8a7d2af75f4e6a64c03e7"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3BeIrqZR/versions/FxSutbg1/Origins-1.19.2-1.7.1.jar"
+            ],
+            "fileSize": 2259176
+        },
+        {
+            "path": "mods/Pehkui-3.7.5+1.14.4-1.20.jar",
+            "hashes": {
+                "sha1": "8544704adb36883fd1a1c80f9e1b6454ac067330",
+                "sha512": "2f5f930c37c88fcdc9b9e9168affda4e4327c574ee2ce5a4ea149c05e5186e7fc9e4a7f21718d4d5cfead50f6fd942db47b0700f3eddf09bb915712d80bf14c1"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/t5W7Jfwy/versions/riJf9xr3/Pehkui-3.7.5%2B1.14.4-1.20.jar"
+            ],
+            "fileSize": 480424
+        },
+        {
+            "path": "mods/RegionsUnexploredFabric-0.4.1+1.19.2.jar",
+            "hashes": {
+                "sha1": "a4de98a74f9b821913098be8a4c74395b5b16cda",
+                "sha512": "b84e867458a8568a589907570dfb1d3fbcaa62050d9767b48e4258a4979fa3320b89a249a3d1de86d2f8e57e4b7b6c3b868ba8c187af6f8adb093972cae22ca9"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Tkikq67H/versions/L5Ti8Ac3/RegionsUnexploredFabric-0.4.1%2B1.19.2.jar"
+            ],
+            "fileSize": 3387046
+        },
+        {
+            "path": "mods/TerraBlender-fabric-1.19.2-2.0.1.136.jar",
+            "hashes": {
+                "sha1": "5ca6cc1eb69df42650c6d5d478f58e1241109771",
+                "sha512": "b44ce4000ef7c425754231147ea0e45315f5018c7833eec998e6a6e258304558f1fcfad87851bdda8db7627abb6d496910a2b21953e22a2b6d02812b78598008"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/kkmrDlKT/versions/nZwFn2MJ/TerraBlender-fabric-1.19.2-2.0.1.136.jar"
+            ],
+            "fileSize": 307148
+        }
+    ],
+    "dependencies": {
+        "fabric-loader": "0.14.21",
+        "minecraft": "1.19.2"
+    }
+}

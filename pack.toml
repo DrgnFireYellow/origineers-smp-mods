@@ -1,0 +1,13 @@
+name = "Origineers Smp Mods"
+author = "DrgnFireYellow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f2abf329a21b40410f0187c5a984f24fd1ffa257f989c8f8e656bcb4a6184b67"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"
